@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+ <xls name="goods_glyphs">
+  <sheet>goods_glyphs</sheet>
+  <sheet>strength</sheet>
+ </xls>
+ <xls name="goods_equipment">
+  <sheet>equip_list</sheet>
+ </xls>
+</config> 

@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\client\Assets\Scripts\UI\HelpUI\HelpUI.cs">
+    <Files>
+      <File FileName="..\client\Assets\Scripts\Controll\BuildingLumber.cs" Line="124" Column="34" />
+      <File FileName="..\client\Assets\Scripts\Manager\ResManager.cs" Line="1474" Column="75" />
+      <File FileName="..\client\Assets\Scripts\UI\HelpUI\HelpUI.cs" Line="23" Column="26" />
+      <File FileName="..\client\Assets\Scripts\Manager\UIManager.cs" Line="927" Column="20" />
+      <File FileName="..\client\Assets\Scripts\UI\BaseUI.cs" Line="29" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
